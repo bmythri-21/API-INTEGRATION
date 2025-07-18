@@ -47,4 +47,7 @@ Weather icon
 # output
 
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/977e4c13-a06a-403f-b16e-130c129201fd" />
+
+
 
